@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/andreinfracloud/projetodevopsnanuvem-gitops.git
+    repoURL: https://github.com/andreinfracloud/projetodevopsnanuvem-gitops
     targetRevision: HEAD
     path: dvn-workshop-kubernetes/.
   destination:
