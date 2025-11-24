@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/andreinfracloud/projetodevopsnanuvem-gitops.git
     targetRevision: HEAD
-    path: dvn-workshop-kubernetes/argocd/.
+    path: dvn-workshop-kubernetes/.
   destination:
     server: https://kubernetes.default.svc
     namespace: default
